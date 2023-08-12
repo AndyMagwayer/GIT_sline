@@ -151,3 +151,4 @@ body {
 
 .waves + .waves:after {
 	animation-delay: calc(calc(var(--spd) / 4) * 2.5) ;
+	}
